@@ -11,7 +11,7 @@ def primes(n):
                 pr[i] = False
     for i in range(len(pr)):
         if pr[i] == True:
-            print((i, end=" "))
+            print(i, end=" ")
 
 for _ in range(int(input())):
     n = int(input())
