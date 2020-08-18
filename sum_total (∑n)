@@ -1,0 +1,5 @@
+def sum_total(n):
+    return int(n*(n+1)/2)
+
+
+print(sum_total(10))
