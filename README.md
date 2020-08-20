@@ -6,10 +6,10 @@
 ## **Referance:** [Competetive programming with python](https://www.youtube.com/playlist?list=PLS1QulWo1RIZZc0V_a8cEuFFkF5KbGlsf)  
 
 ------------------------------------------------------------------------------------
-#### bitwise operator not - ~ : (a = 10 => 1010 (Binary) => ~a = ~1010 = -(1010 + 1) = -(1011) = -11)  
-#### bitwise operator xor - ^  : (n^n = 0), (n^0 = n)  
-#### bitwise operator rightshift - >> : (100 >> 2 = 25)  
-#### bitwise operator leftshift - << : (100 << 2 = 400)  
+#### bitwise operator not {~} : (a = 10 => 1010 (Binary) => ~a = ~1010 = -(1010 + 1) = -(1011) = -11)  
+#### bitwise operator xor {^}  : (n^n = 0), (n^0 = n)  
+#### bitwise operator rightshift {>>} : (100 >> 2 = 25)  
+#### bitwise operator leftshift {<<} : (100 << 2 = 400)  
 
 -------------------------------------------------------------------------------------
 ### Odd-Even:O(1)  
