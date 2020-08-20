@@ -19,13 +19,13 @@ if n&1 == 1:
 else:
     print('even')
 ```
-## **Multiply/Divide with power of 2<sup>n</sup>:**
-````python
+## **Leftshift(multiply) / Rightshift(divide) by 2<sup>n</sup>:**
+```python
 def multpow(x,y):
-    return x<<y  # x*(2<sup>y</sup>)
+    return x<<y  # x*(2^y)
 def divpow(x,y):
-    return x>>y # x/2<sup>y</sup>
-```  
+    return x>>y # x/(2^y)
+```
 ## **Check if a number is power of 2:**  
 ```python
 def ispow(n):
