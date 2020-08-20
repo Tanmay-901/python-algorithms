@@ -17,6 +17,18 @@
 def sum_total(n):
     return int(n*(n+1)/2)
 ```
+### LCM/GCD:(Euclid's algorithm)  
+```python
+def gcd(a,b):
+    if a == 0:
+        return b
+    return gcd(b%a,a)
+
+def lcm(a,b):
+    prod = a*b
+    hcf = gcd(a,b)
+    return prod//hcf
+```
 ### Odd-Even:O(1)  
 ```python
 if n&1 == 1:
