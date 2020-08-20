@@ -6,10 +6,10 @@
 ## **Referance:** [Competetive programming with python](https://www.youtube.com/playlist?list=PLS1QulWo1RIZZc0V_a8cEuFFkF5KbGlsf)  
 
 ------------------------------------------------------------------------------------
-#### bitwise operator not - ~  
-#### bitwise operator xor - ^ (n^n = 0), (n^0 = n)  
-#### bitwise operator rightshift - >>  
-#### bitwise operator leftshift - <<  
+#### bitwise operator not - ~ : (a = 10 => 1010 (Binary) => ~a = ~1010 = -(1010 + 1) = -(1011) = -11)  
+#### bitwise operator xor - ^  : (n^n = 0), (n^0 = n)  
+#### bitwise operator rightshift - >> : (100 >> 2 = 25)  
+#### bitwise operator leftshift - << : (100 << 2 = 400)  
 
 -------------------------------------------------------------------------------------
 ### Odd-Even:O(1)  
@@ -52,7 +52,7 @@ def inttobin(n):
 def bintoint(m):
     return int(m,2)
 ```
-### check which number occurs once(or odd number of times/doesn't has it's unique identical element) in an array:
+### check which number occurs once(or odd number of times/doesn't has it's unique identical element) in an array:O(n)
 ```python
 def checkpair(arr): # n -> aray
     temp = arr[0]
