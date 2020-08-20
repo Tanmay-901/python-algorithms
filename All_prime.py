@@ -1,7 +1,6 @@
 # Sieve Theorem
 from math import *
 
-
 def primes(n):
     pr = [True] * (n+1)
     pr[0] = False
