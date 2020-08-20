@@ -12,6 +12,11 @@
 #### bitwise operator leftshift {<<} : (100 << 2 = 400)  
 
 -------------------------------------------------------------------------------------
+### sum of n numbers:O(1)  
+```python
+def sum_total(n):
+    return int(n*(n+1)/2)
+```
 ### Odd-Even:O(1)  
 ```python
 if n&1 == 1:
