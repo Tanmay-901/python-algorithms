@@ -1,5 +1,5 @@
 # part 1- graph theory
-# make a dictionary of all the nodes(vertices) in the unordered graph
+# make a dictionaries of all the nodes(vertices) and their linked nodes in the unordered graph
 from collections import defaultdict
 
 graph = defaultdict(list)
