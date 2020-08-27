@@ -3,7 +3,7 @@
 
 ------------------------------------------------------------------------------------
 
-## **Referance:** Competetive programming with python  
+ **Referance:** Competetive programming with python  
 
 ------------------------------------------------------------------------------------
 #### bitwise operator not {~} : (a = 10 => 1010 (Binary) => ~a = ~1010 = -(1010 + 1) = -(1011) = -11)  
