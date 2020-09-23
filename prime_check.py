@@ -9,7 +9,7 @@ def prime(a):
     if a%2==0 or a%3==0:
         return False
     for i in range(5,int(sqrt(a))+1,4):
-        if n%i==0 or n%(i+2)==0:
+        if a%i==0 or a%(i+2)==0:
             return False
     return True
 
