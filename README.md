@@ -1,7 +1,7 @@
 # **Python-algorithms**  
 ## efficient algorithms for general tasks with good time complexity.  
 
-## To push a Pull-request:  
+## To send a Pull-request:  
 * Fork this repo.
 * Star the repo
 * Clone the repo on your local machine using `git clone https://github.com/{your-username}/python-algorithms.git`.
