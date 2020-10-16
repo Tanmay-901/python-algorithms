@@ -2,7 +2,8 @@
 
 def isPalindrome(imput_string):
 	reverse_string = imput_string[::-1]
-
+	reverse_string = reverse_string.lowercase()
+	imput_string  = imput_string.lowercase()
 	return imput_string == reverse_string
 
 
