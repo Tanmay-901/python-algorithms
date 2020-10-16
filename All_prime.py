@@ -1,7 +1,7 @@
 # Sieve Theorem
 from math import *
 
-def primes(n):
+def all_primes(n):
     pr = [True] * (n+1)
     pr[0] = False
     pr[1] = False
@@ -13,6 +13,5 @@ def primes(n):
         if pr[i] == True:
             print(i, end=" ")
 
-for _ in range(int(input())):
-    n = int(input())
-    primes(n)
+n = int(input())
+print(all_primes(n))
