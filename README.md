@@ -1,6 +1,17 @@
 # **Python-algorithms**  
 ## efficient algorithms for general tasks with good time complexity.  
 
+## To push a Pull-request:  
+* Fork this repo.
+* Star the repo
+* Clone the repo on your local machine using `git clone https://github.com/{your-username}/python-algorithms.git`.
+* Create a branch `git checkout -b your_new_branch_name`
+* Make required changes then add and commit  
+  `git add.`  
+  `git commit -m "your commit message"`
+* Push your changes `git push origin your_new_branch_name`
+* Merge and send a Pull-request.
+
 ------------------------------------------------------------------------------------
 
  **Referance:** Competetive programming with python  
