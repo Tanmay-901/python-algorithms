@@ -1,6 +1,6 @@
 # Contributing
 
-When contributing to this repository, please make sure that the changes you wish to make consists of an algorithm implementations  
+When contributing to this repository, please make sure that the changes you wish to make consists of an algorithm/concept/adanced DSA implementation 
 and not a mere program which almost everyone comfortable with python knows(like even/odd check).  
 
 However Basic programs are welcomed in another repository of ours to get your journey of Open source contribution 
