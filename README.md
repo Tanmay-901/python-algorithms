@@ -2,6 +2,7 @@
 ## efficient algorithms for general tasks with good time complexity.  
 
 ## To send a Pull-request:  
+* Check our contribution guidelines in [CONTRIBUTING.md](https://github.com/Dude-901/python-algorithms/blob/master/CONTRIBUTING.md)   
 * Fork this repo.
 * Star the repo
 * Clone the repo on your local machine using `git clone https://github.com/{your-username}/python-algorithms.git`.
