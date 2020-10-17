@@ -5,7 +5,8 @@ and not a mere program which almost everyone beginning with python knows(like ev
 
 However Basic programs are welcomed in another repository of ours to get your journey of Open source contribution 
 started without the need of in-depth knowledge of programming. if someone is at the beginning to learn programming, you can contribute in  
-our [Basic programs](https://github.com/Dude-901/basic-programs) repository.
+our [Basic programs](https://github.com/Dude-901/basic-programs) repository.  
+If you want to send in C/Cpp programs, go to [Cpp-Algorithms](https://github.com/Dude-901/Cpp-Algorithms) repository.  
 
 ## Pull Request Process
 
