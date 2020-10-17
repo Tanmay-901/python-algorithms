@@ -1,7 +1,7 @@
 # Contributing
 
 When contributing to this repository, please make sure that the changes you wish to make consists of an algorithm/concept/adanced DSA implementation 
-and not a mere program which almost everyone comfortable with python knows(like even/odd check).  
+and not a mere program which almost everyone beginning with python knows(like even/odd check).  
 
 However Basic programs are welcomed in another repository of ours to get your journey of Open source contribution 
 started without the need of in-depth knowledge of programming. if someone is at the beginning to learn programming, you can contribute in  
