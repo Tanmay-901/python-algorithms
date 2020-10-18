@@ -19,3 +19,7 @@ class Solution:
             else:  # If we encounter an opening bracket, we simply push it onto the stack
                 stack.append(c)
         return not stack
+
+
+randomSequence = '([])'
+print("Given RandomSequence is Valid?", Solution().isValid(randomSequence))
