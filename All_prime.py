@@ -9,7 +9,7 @@ def all_primes(n):
         if pr[x] == True:
             for i in range(x*x,n+1,x):
                 pr[i] = False
-    for i in range(len(pr)):
+    for i in range(n+1): #changed range value from len(pr) to n+1, confirm if it works properly
         if pr[i] == True:
             print(i, end=" ")
 
