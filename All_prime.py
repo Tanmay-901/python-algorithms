@@ -1,4 +1,6 @@
 # Sieve Theorem
+# all prime numbers upto n
+# (not first n prime numbers)
 from math import *
 
 def all_primes(n):
