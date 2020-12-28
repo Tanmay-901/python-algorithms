@@ -23,7 +23,7 @@
 #### bitwise operator leftshift {<<} : (100 << 2 = 400)  
 
 -------------------------------------------------------------------------------------
-### sum of n numbers:O(1)  
+### sum of first n numbers:O(1)  
 ```python
 def sum_total(n):
     return int(n*(n+1)/2)
